@@ -4,6 +4,8 @@ on:
   schedule:
     # Runs every day at 4:30 PM UTC (approximates 5:30 PM CET)
     - cron: '30 16 * * *'
+    
+  workflow_dispatch:
 
 jobs:
   run-python-script:
