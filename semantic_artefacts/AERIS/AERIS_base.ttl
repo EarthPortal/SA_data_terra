@@ -1,0 +1,42 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix base: <https://vocab.aeris-data.fr/thesaurus> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+#Main ConceptScheme with import from TerraVocab and topConcept to improve the display in EP
+<https://vocab.aeris-data.fr/thesaurus> rdf:type owl:Ontology , skos:ConceptScheme ;
+                                        owl:imports <https://skosmos.aeris-data.fr/dumps/aeris-parameters-skos.ttl>,
+                                                    <https://skosmos.aeris-data.fr/dumps/aeris-platforms-skos.ttl>,
+                                                    <https://skosmos.aeris-data.fr/dumps/aeris-projects-skos.ttl>,
+                                                    <https://skosmos.aeris-data.fr/dumps/aeris-instruments-skos.ttl> ;
+                                            skos:hasTopConcept      <https://vocab.aeris-data.fr/thesaurus/parameter>;
+                                          skos:hasTopConcept      <https://vocab.aeris-data.fr/thesaurus/platform>;
+                                          skos:hasTopConcept      <https://vocab.aeris-data.fr/thesaurus/instruments>;
+                                          skos:hasTopConcept      <https://vocab.aeris-data.fr/thesaurus/projects>;
+                                     rdfs:label "AERIS thesaurus"@en .
+
+<https://vocab.aeris-data.fr/thesaurus/parameter>
+        a                  skos:Concept;
+        skos:prefLabel "Parameter"@en, "Paramètre"@fr;
+        rdfs:seeAlso <https://skosmos.aeris-data.fr/rest/v1/aeris_param/data?format=text/turtle>;
+        skos:inScheme     <https://vocab.aeris-data.fr/thesaurus>  .
+
+<https://vocab.aeris-data.fr/thesaurus/platform>
+        a                  skos:Concept;
+        skos:prefLabel "Platform"@en, "Plateforme"@fr;
+        rdfs:seeAlso <https://skosmos.aeris-data.fr/rest/v1/aeris_pf/data?format=text/turtle>;
+        skos:inScheme   <https://vocab.aeris-data.fr/thesaurus> .
+
+<https://vocab.aeris-data.fr/thesaurus/projects>
+        a                  skos:Concept;
+        skos:prefLabel "Project"@en, "Projet"@fr;
+        rdfs:seeAlso <https://skosmos.aeris-data.fr/rest/v1/aeris_proj/data?format=text/turtle>;
+        skos:inScheme     <https://vocab.aeris-data.fr/thesaurus>  .
+
+<https://vocab.aeris-data.fr/thesaurus/instruments>
+        a                  skos:Concept;
+        skos:prefLabel "Instrument"@en, "Instrument"@fr;
+        rdfs:seeAlso <https://skosmos.aeris-data.fr/rest/v1/aeris_inst/data?format=text/turtle>;
+        skos:inScheme     <https://vocab.aeris-data.fr/thesaurus>  .
