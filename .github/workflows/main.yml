@@ -28,4 +28,4 @@ jobs:
 
       - name: Run Python script
         run: |
-          python scripts/RegroupVocabs.py -i semantic_artefacts/AERIS/AERIS_base.ttl -o semantic_artefacts/AERIS/AERIS_Thesaurus.ttl
+          python scripts/RegroupVocab.py -i semantic_artefacts/AERIS/AERIS_base.ttl -o semantic_artefacts/AERIS/AERIS_Thesaurus.ttl
