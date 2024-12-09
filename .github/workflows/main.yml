@@ -1,0 +1,29 @@
+name: Data Terra clusters vocabularies regroupments automation
+
+on:
+  schedule:
+    # Runs every day at 4:30 PM UTC (approximates 5:30 PM CET)
+    - cron: '30 16 * * *'
+
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: Run Python script
+        run: |
+          python scripts/RegroupVocabs.py -i semantic_artefacts/AERIS/AERIS_base.ttl -o semantic_artefacts/AERIS/AERIS_Thesaurus.ttl
