@@ -2,12 +2,21 @@ from rdflib import Graph, Namespace, URIRef, RDF, RDFS, OWL, SKOS
 from argparse import ArgumentParser
 from pathlib import Path
 
-def load_rdf_vocabulary_from_uri(vocabulary_uri):
-    # Créer un graphe RDF
-    g = Graph()
-    # Charger les données RDF depuis l'URI spécifiée
-    g.parse(vocabulary_uri)
-    return g
+def load_rdf_vocabulary_from_uri(url):
+    remote_graph = Graph()
+    try:
+        for fmt in ["xml", "turtle", "nt", "json-ld"]:
+            try:
+                remote_graph.parse(url, format=fmt)
+                print(f"Loaded {len(remote_graph)} triples from {url} using format {fmt}")
+                break  # Exit loop on successful parse
+            except Exception:
+                continue  # Try the next format
+        else:
+            raise ValueError(f"Failed to parse {url} in any recognized format.")
+    except Exception as e:
+        print(f"An error occurred while loading {url}: {e}")
+    return remote_graph
 
 def get_level_1_concepts_uris(graph):
     # Initialiser une liste pour stocker les URI des concepts de niveau 1
@@ -57,6 +66,7 @@ if __name__ == "__main__":
     parser = ArgumentParser()
     parser.add_argument("-i", "--input", required=True, help="Input file to enrich")
     parser.add_argument("-o", "--output", help="Output file path and name")
+    parser.add_argument("-c", "--concatenate", type=lambda s: s.split(','), help="Concatenate additional graphs at the URL(s) provided")
     args = parser.parse_args()
     path = ""
     if args.output != "":
@@ -75,5 +85,9 @@ if __name__ == "__main__":
         # Enrichir les concepts existants avec la relation skos:broader et skos:inScheme
         enriched_graph= enrich_concepts_with_inScheme_relation(vocabulary_graph, get_concept_uris(vocabulary_graph),concept_uri_inScheme)
         final_graph = final_graph + enrich_concepts_with_broader_relation(enriched_graph, get_level_1_concepts_uris(vocabulary_graph), concept_uri_broader)
+    
+    if len(args.concatenate) > 0:
+        for url in args.concatenate:
+            final_graph += load_rdf_vocabulary_from_uri(url)
 
     final_graph.serialize(destination=str(args.output), format="ttl")
