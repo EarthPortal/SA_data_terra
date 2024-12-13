@@ -86,7 +86,7 @@ if __name__ == "__main__":
         enriched_graph= enrich_concepts_with_inScheme_relation(vocabulary_graph, get_concept_uris(vocabulary_graph),concept_uri_inScheme)
         final_graph = final_graph + enrich_concepts_with_broader_relation(enriched_graph, get_level_1_concepts_uris(vocabulary_graph), concept_uri_broader)
     
-    if len(args.concatenate) > 0:
+    if args.concatenate != None:
         for url in args.concatenate:
             final_graph += load_rdf_vocabulary_from_uri(url)
 
