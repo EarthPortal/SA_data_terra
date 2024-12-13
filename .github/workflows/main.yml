@@ -29,21 +29,21 @@ jobs:
       - name: Run Python script
         run: |
           python scripts/RegroupVocab.py -i semantic_artefacts/AERIS/AERIS_base.ttl -o semantic_artefacts/AERIS/AERIS_Thesaurus.ttl
+          python scripts/RegroupVocab.py -i semantic_artefacts/ODATIS/ODATIS_base.ttl -o semantic_artefacts/ODATIS/ODATIS_Thesaurus.ttl -c "http://vocab.nerc.ac.uk/collection/OD1/current/?_profile=nvs&_mediatype=text/turtle"
 
       # Compare the output file and commit changes if different
       - name: Check if file has been updated and commit changes
         run: |
-          original_file="semantic_artefacts/AERIS/AERIS_Thesaurus.ttl"
+          sa_folder="semantic_artefacts"
           
           # Check if the original file has been updated by comparing it with the previously committed version
-          git diff --quiet "$original_file" || {
-            echo "Changes detected in $original_file, committing changes..."
+          git diff --quiet "$sa_folder" || {
+            echo "Changes detected in $sa_folder, committing changes..."
             git config --global user.name "earthportal-sac"
             git config --global user.email "earthportal.sac@gmail.com"
-            git add "$original_file"
-            git commit -m "New version of $original_file"
+            git add "$sa_folder/*"
+            git commit -m "New version(s) of semantic artefact(s)"
             git push origin main
           }
-          echo "No changes detected, skipping commit."
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
