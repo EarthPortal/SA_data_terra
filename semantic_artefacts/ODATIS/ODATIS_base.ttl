@@ -1,0 +1,41 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix base: <https://w3id.org/earthsemantics/ODATIS/thesaurus> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/earthsemantics/ODATIS/thesaurus> rdf:type owl:Ontology , skos:ConceptScheme ;
+                                        owl:imports <https://sextant.ifremer.fr/geonetwork/srv/api/registries/vocabularies/local.theme.odatis_centre_donnees>,
+                                                    <https://sextant.ifremer.fr/geonetwork/srv/api/registries/vocabularies/local.theme.IR>,
+                                                    <https://sextant.ifremer.fr/geonetwork/srv/api/registries/vocabularies/local.theme.SNO>,
+                                                    <https://sextant.ifremer.fr/geonetwork/srv/api/registries/vocabularies/local.theme.type_jeux_donnee> ;
+                                            skos:hasTopConcept      <https://w3id.org/earthsemantics/ODATIS/odatis_centre_donnees>;
+                                          skos:hasTopConcept      <https://w3id.org/earthsemantics/ODATIS/IR>;
+                                          skos:hasTopConcept      <https://w3id.org/earthsemantics/ODATIS/SNO>;
+                                          skos:hasTopConcept      <https://w3id.org/earthsemantics/ODATIS/type_jeux_donnee>;
+                                     rdfs:label "ODATIS thesaurus"@en, "Thésaurus ODATIS"@fr .
+
+<https://w3id.org/earthsemantics/ODATIS/odatis_centre_donnees>
+        a                  skos:Concept;
+        skos:prefLabel "Data center"@en, "Centre de données"@fr;
+        rdfs:seeAlso <https://sextant.ifremer.fr/geonetwork/srv/api/registries/vocabularies/local.theme.odatis_centre_donnees>;
+        skos:inScheme     <https://w3id.org/earthsemantics/ODATIS/thesaurus>  .
+
+<https://w3id.org/earthsemantics/ODATIS/IR>
+        a                  skos:Concept;
+        skos:prefLabel "Research infrastructure"@en, "Infrastructure de recherche"@fr;
+        rdfs:seeAlso <https://sextant.ifremer.fr/geonetwork/srv/api/registries/vocabularies/local.theme.IR>;
+        skos:inScheme   <https://w3id.org/earthsemantics/ODATIS/thesaurus> .
+
+<https://w3id.org/earthsemantics/ODATIS/SNO>
+        a                  skos:Concept;
+        skos:prefLabel "National service of observation"@en, "Service nationaux d'observation"@fr;
+        rdfs:seeAlso <https://sextant.ifremer.fr/geonetwork/srv/api/registries/vocabularies/local.theme.SNO>;
+        skos:inScheme     <https://w3id.org/earthsemantics/ODATIS/thesaurus>  .
+
+<https://w3id.org/earthsemantics/ODATIS/type_jeux_donnee>
+        a                  skos:Concept;
+        skos:prefLabel "Dataset type"@en, "Type de jeux de données"@fr;
+        rdfs:seeAlso <https://sextant.ifremer.fr/geonetwork/srv/api/registries/vocabularies/local.theme.type_jeux_donnee>;
+        skos:inScheme     <https://w3id.org/earthsemantics/ODATIS/thesaurus>  .
