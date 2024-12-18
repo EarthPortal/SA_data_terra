@@ -1,0 +1,38 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix base: <https://w3id.org/earthsemantics/EASY_DATA_VOCAB/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+#Main ConceptScheme with import from TerraVocab and topConcept to improve the display in EP
+<https://w3id.org/earthsemantics/EASY_DATA_VOCAB/ThesaurusAll> rdf:type owl:Ontology , skos:ConceptScheme ;
+                                     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+                                        owl:imports <https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/Voc_thematique?_format=ttl&_view=with_metadata&status=valid>,
+                                                    <https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/InfraRecherche?_format=ttl&_view=with_metadata&status=valid> ,
+                                                    <https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs?_format=ttl&_view=with_metadata&status=valid> ;
+                                            skos:hasTopConcept      <https://w3id.org/earthsemantics/EASY_DATA_VOCAB/Infrastructure>;
+                                          skos:hasTopConcept      <https://w3id.org/earthsemantics/EASY_DATA_VOCAB/Topic>;
+                                          skos:hasTopConcept      <https://w3id.org/earthsemantics/EASY_DATA_VOCAB/Keyword>;
+                                     rdfs:label "EaSy Data Thesaurus directly import from TerraVocab"@en .
+
+#Top Concept to display in EP (will be linked with TerraVocab import concept)
+<https://w3id.org/earthsemantics/EASY_DATA_VOCAB/Infrastructure>
+        a                  skos:Concept;
+        skos:prefLabel "Research Infrastructure or Research Component"@en, "Infrastructure de recherche ou composante de recherche"@fr;
+        skos:narrower <https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/InfraRecherche/c_5591b438>;
+        rdfs:seeAlso <https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/InfraRecherche?_format=ttl&_view=with_metadata&status=valid>;
+        skos:inScheme     <https://w3id.org/earthsemantics/EASY_DATA_VOCAB/ThesaurusAll>  .
+
+<https://w3id.org/earthsemantics/EASY_DATA_VOCAB/Topic>
+        a                  skos:Concept;
+        skos:prefLabel "Topic"@en, "Thématique"@fr;
+        skos:narrower <https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/Voc_thematique/c_fb17c46c>, <https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/Voc_thematique/c_1a8d861b>;
+        rdfs:seeAlso <https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/Voc_thematique?_format=ttl&_view=with_metadata&status=valid>;
+        skos:inScheme   <https://w3id.org/earthsemantics/EASY_DATA_VOCAB/ThesaurusAll> .
+
+<https://w3id.org/earthsemantics/EASY_DATA_VOCAB/Keyword>
+        a                  skos:Concept;
+        skos:prefLabel "Keyword"@en, "Mot clé"@fr;
+        rdfs:seeAlso <https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs?_format=ttl&_view=with_metadata&status=valid>;
+        skos:inScheme     <https://w3id.org/earthsemantics/EASY_DATA_VOCAB/ThesaurusAll>  .
