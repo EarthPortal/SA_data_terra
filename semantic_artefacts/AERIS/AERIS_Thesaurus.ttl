@@ -3102,6 +3102,8 @@
 
 <https://vocab.aeris-data.fr/project/63c6d1bf-dc3c-c1e2-3f74-e2ff984601ac> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
+<https://vocab.aeris-data.fr/project/64c85d34-e46a-4c9b-ac95-3de8e0dac483> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
+
 <https://vocab.aeris-data.fr/project/64dd5a38-41a5-b434-f586-eb2c79d64481> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
 <https://vocab.aeris-data.fr/project/65f4cc07-cf36-ae47-fce7-ba37ef1128de> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
