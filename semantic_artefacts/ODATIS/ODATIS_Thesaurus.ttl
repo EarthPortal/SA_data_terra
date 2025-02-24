@@ -72,6 +72,124 @@
         <http://vocab.nerc.ac.uk/collection/OD1/current/ZOO/> ;
     skos:prefLabel "ODATIS aggregation parameters and Essential Variable names" .
 
+<https://vocab.ifremer.fr/scheme/SXT/IR/145aed26-0b02-4d37-9d24-8db12fa0967e> skos:broader <https://w3id.org/earthsemantics/ODATIS/IR> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/IR/3c3341a0-6b6b-4184-bada-671a1dbb53bc> skos:broader <https://w3id.org/earthsemantics/ODATIS/IR> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/IR/78d02f74-443a-4010-a9d2-af54f183cea0> skos:broader <https://w3id.org/earthsemantics/ODATIS/IR> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/IR/afae62c5-9962-4850-b174-f4edd6caf3c3> skos:broader <https://w3id.org/earthsemantics/ODATIS/IR> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/IR/cb34cf11-5fe5-425b-b5ed-7a5c1a5f842e> skos:broader <https://w3id.org/earthsemantics/ODATIS/IR> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/064702d0-17d7-40dd-8f6e-e3421a71ce7c> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/11b798fe-169e-4bc7-bb34-44823e874adb> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/186247da-31da-48cf-8a97-9c3c7d6ed119> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/2a7aa178-739e-4276-933b-1caa539d4aa6> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/373eaec7-f331-47e4-8dd9-92bd1158dc13> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/3ff86121-016b-4b2f-bad8-ea5825942032> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/4ea9d6cf-4397-4e07-94e8-4393edfb4714> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/50b221d3-9d8a-4987-8705-0c91fcaaa68f> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/67ca6ff3-49b1-475c-a922-d80024810df8> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/98b551e7-13e9-41d1-820a-34475b4b69a0> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/9d775b58-3e42-4943-ad65-efcf210e4c6c> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/a62b14be-c786-4aa1-bf45-f92a26d348bd> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/aabea3b2-4ec1-4c09-bea5-21fd0e0b096f> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/b32bf1b2-dab3-4b43-996c-6a4365e4159b> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/b41e4ba1-3377-42d7-bbcc-9404b927ea3c> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/b935ea2f-d349-4664-bf5a-f152f1d5c5bb> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/ca4fb725-0f70-40a6-947f-33435b16c418> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/e766ad56-824b-4d1e-9173-7a63aff65b70> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/SNO/f2279789-e199-4617-90ce-1c8363085d28> skos:broader <https://w3id.org/earthsemantics/ODATIS/SNO> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/odatis_centre_donnees/1500646c-46f5-4da2-b6b2-2bfa6eb9415d> skos:broader <https://w3id.org/earthsemantics/ODATIS/odatis_centre_donnees> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/odatis_centre_donnees/34c66ea5-3b28-4a1f-9cd7-623c827dc525> skos:broader <https://w3id.org/earthsemantics/ODATIS/odatis_centre_donnees> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/odatis_centre_donnees/5c8a927b-6d39-4506-9b8b-88908a2974c3> skos:broader <https://w3id.org/earthsemantics/ODATIS/odatis_centre_donnees> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/odatis_centre_donnees/66b253d4-1e05-454b-9641-4e281c11431a> skos:broader <https://w3id.org/earthsemantics/ODATIS/odatis_centre_donnees> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/odatis_centre_donnees/720a0782-03c4-46a4-a35a-e5bd71d741b8> skos:broader <https://w3id.org/earthsemantics/ODATIS/odatis_centre_donnees> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/odatis_centre_donnees/730d8bf9-3a8c-4a21-bdf3-614968c5e3cb> skos:broader <https://w3id.org/earthsemantics/ODATIS/odatis_centre_donnees> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/odatis_centre_donnees/807b0273-8206-420f-91f4-e0dcdd13110c> skos:broader <https://w3id.org/earthsemantics/ODATIS/odatis_centre_donnees> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/odatis_centre_donnees/840271f5-c45f-46d3-9fcf-e23fcf802d71> skos:broader <https://w3id.org/earthsemantics/ODATIS/odatis_centre_donnees> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/odatis_centre_donnees/85787e11-f61e-4af7-a39a-bb9aea8d0447> skos:broader <https://w3id.org/earthsemantics/ODATIS/odatis_centre_donnees> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/type_jeux_donnee/308699d0-2a4a-40d3-a418-b0396dbe7534> skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/type_jeux_donnee/5f6824e5-a2da-4f4c-a2cc-0a1aeb9d590c> skos:broader <https://w3id.org/earthsemantics/ODATIS/type_jeux_donnee> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/type_jeux_donnee/69c1d1e8-df22-458c-8daa-34c67bfb3f8d> skos:broader <https://w3id.org/earthsemantics/ODATIS/type_jeux_donnee> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/type_jeux_donnee/73360e4a-0082-4973-b1a1-836a728c8bbd> skos:broader <https://w3id.org/earthsemantics/ODATIS/type_jeux_donnee> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/type_jeux_donnee/ad1acbcb-a75a-4541-8214-c505c6c134bd> skos:broader <https://w3id.org/earthsemantics/ODATIS/type_jeux_donnee> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/type_jeux_donnee/c0d4cb33-61b7-4e83-8103-67c8b6a11671> skos:broader <https://w3id.org/earthsemantics/ODATIS/type_jeux_donnee> ;
+    skos:inScheme base: .
+
+<https://vocab.ifremer.fr/scheme/SXT/type_jeux_donnee/ee886158-f9cc-470d-b9cb-b2c7bec0fea2> skos:inScheme base: .
+
 <http://vocab.nerc.ac.uk/collection/OD1/current/ACOUST/> a skos:Concept ;
     dc:identifier "SDN:OD1::ACOUST" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
@@ -1190,11 +1308,11 @@
     skos:prefLabel "Research infrastructure"@en,
         "Infrastructure de recherche"@fr .
 
-<https://w3id.org/earthsemantics/ODATIS/SNO> a skos:Concept ;
-    rdfs:seeAlso <https://sextant.ifremer.fr/geonetwork/srv/api/registries/vocabularies/local.theme.SNO> ;
+<https://w3id.org/earthsemantics/ODATIS/type_jeux_donnee> a skos:Concept ;
+    rdfs:seeAlso <https://sextant.ifremer.fr/geonetwork/srv/api/registries/vocabularies/local.theme.type_jeux_donnee> ;
     skos:inScheme base: ;
-    skos:prefLabel "National service of observation"@en,
-        "Service nationaux d'observation"@fr .
+    skos:prefLabel "Dataset type"@en,
+        "Type de jeux de données"@fr .
 
 <https://w3id.org/earthsemantics/ODATIS/odatis_centre_donnees> a skos:Concept ;
     rdfs:seeAlso <https://sextant.ifremer.fr/geonetwork/srv/api/registries/vocabularies/local.theme.odatis_centre_donnees> ;
@@ -1202,11 +1320,11 @@
     skos:prefLabel "Data center"@en,
         "Centre de données"@fr .
 
-<https://w3id.org/earthsemantics/ODATIS/type_jeux_donnee> a skos:Concept ;
-    rdfs:seeAlso <https://sextant.ifremer.fr/geonetwork/srv/api/registries/vocabularies/local.theme.type_jeux_donnee> ;
+<https://w3id.org/earthsemantics/ODATIS/SNO> a skos:Concept ;
+    rdfs:seeAlso <https://sextant.ifremer.fr/geonetwork/srv/api/registries/vocabularies/local.theme.SNO> ;
     skos:inScheme base: ;
-    skos:prefLabel "Dataset type"@en,
-        "Type de jeux de données"@fr .
+    skos:prefLabel "National service of observation"@en,
+        "Service nationaux d'observation"@fr .
 
 base: a owl:Ontology,
         skos:ConceptScheme ;
