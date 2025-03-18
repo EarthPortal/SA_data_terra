@@ -1,0 +1,26 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix base: <https://vocab.aeris-data.fr/thesaurus> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/earthsemantics/THEIA_THES/thesaurus> rdf:type owl:Ontology , skos:ConceptScheme ;
+                                        owl:imports <https://w3id.org/ozcar-theia/>,
+                                                    <https://www.theia-land.fr>;
+                                            skos:hasTopConcept      <https://w3id.org/earthsemantics/THEIA_THES/theia-ozcar>;
+                                          skos:hasTopConcept      <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial>;
+                                     rdfs:label "Theia thesaurus"@en, "Thésaurus Theia"@fr .
+
+<https://w3id.org/earthsemantics/THEIA_THES/theia-ozcar>
+        a                  skos:Concept;
+        skos:prefLabel "Theia-OZCAR"@en, "Theia-OZCAR"@fr;
+        rdfs:seeAlso <https://skosmos.aeris-data.fr/rest/v1/aeris_param/data?format=text/turtle>;
+        skos:inScheme     <https://w3id.org/earthsemantics/THEIA_THES/thesaurus>  .
+
+<https://w3id.org/earthsemantics/THEIA_THES/theia-spatial>
+        a                  skos:Concept;
+        skos:prefLabel "Theia Spatial"@en, "Theia Spatial"@fr;
+        rdfs:seeAlso <https://gitlab.in2p3.fr/theia/THEIA-Thesaurus-spatial/-/raw/main/sparql_export_theia_spatial-V29112024.ttl?ref_type=heads>;
+        skos:inScheme   <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+

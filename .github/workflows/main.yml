@@ -31,6 +31,7 @@ jobs:
           python scripts/RegroupVocab.py -i semantic_artefacts/AERIS/AERIS_base.ttl -o semantic_artefacts/AERIS/AERIS_Thesaurus.ttl
           python scripts/RegroupVocab.py -i semantic_artefacts/ODATIS/ODATIS_base.ttl -o semantic_artefacts/ODATIS/ODATIS_Thesaurus.ttl -c "http://vocab.nerc.ac.uk/collection/OD1/current/?_profile=nvs&_mediatype=text/turtle"
           python scripts/RegroupVocab.py -i semantic_artefacts/EaSyData/EaSyData_base.ttl -o semantic_artefacts/EaSyData/EaSyData_Thesaurus.ttl
+          python scripts/RegroupVocab.py -i semantic_artefacts/Theia/Theia_base.ttl -o semantic_artefacts/Theia/Theia_Thesaurus.ttl
 
       # Compare the output file and commit changes if different
       - name: Check if file has been updated and commit changes
