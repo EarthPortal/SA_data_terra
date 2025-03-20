@@ -15,7 +15,7 @@
 <https://w3id.org/earthsemantics/THEIA_THES/theia-ozcar>
         a                  skos:Concept;
         skos:prefLabel "Theia-OZCAR"@en, "Theia-OZCAR"@fr;
-        rdfs:seeAlso <https://skosmos.aeris-data.fr/rest/v1/aeris_param/data?format=text/turtle>;
+        rdfs:seeAlso <https://in-situ.theia-land.fr/skosmos/rest/v1/theia_ozcar_thesaurus/data?format=text/turtle>;
         skos:inScheme     <https://w3id.org/earthsemantics/THEIA_THES/thesaurus>  .
 
 <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial>
