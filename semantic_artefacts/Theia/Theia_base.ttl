@@ -6,8 +6,8 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> rdf:type owl:Ontology , skos:ConceptScheme ;
-                                        owl:imports <https://w3id.org/ozcar-theia/>,
-                                                    <https://www.theia-land.fr>;
+                                        owl:imports <https://in-situ.theia-land.fr/skosmos/rest/v1/theia_ozcar_thesaurus/data?format=text/turtle>,
+                                                    <https://gitlab.in2p3.fr/theia/THEIA-Thesaurus-spatial/-/raw/main/sparql_export_theia_spatial-V29112024.ttl?ref_type=heads>;
                                             skos:hasTopConcept      <https://w3id.org/earthsemantics/THEIA_THES/theia-ozcar>;
                                           skos:hasTopConcept      <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial>;
                                      rdfs:label "Theia thesaurus"@en, "Thésaurus Theia"@fr .
