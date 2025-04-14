@@ -2,6 +2,81 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
+<http://theia-spatial/c_179faa76> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_18c73920> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_31f855c6> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_322b7b71> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_3381906b> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_341ce66a> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_3d837c5e> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_48334901> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_626b3ead> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_6aa34d6c> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_6ea2dbd7> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_77443b12> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_7eea8faa> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_8910217d> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_8a100a1f> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_8ade27d9> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_8da8916a> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_a6f52a5b> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_bcbb4906> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_bd37f517> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_c44cafd7> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_c92ad2b2> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_d5635549> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_ee5f0bc7> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<http://theia-spatial/c_f3eff6a3> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
+    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
 <http://vocabs.lter-europe.net/EnvThes/10392> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
     skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
@@ -17,79 +92,7 @@
 <http://vocabs.lter-europe.net/EnvThes/22330> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
     skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
-<http://vocabs.lter-europe.net/EnvThes/30127> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/Voc_thematique/c_c44cafd7> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_179faa76> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_18c73920> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_31f855c6> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_322b7b71> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_3d837c5e> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_48334901> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_626b3ead> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_6aa34d6c> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_6ea2dbd7> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_77443b12> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_7eea8faa> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_8910217d> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_8a100a1f> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_8ade27d9> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_8da8916a> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_a6f52a5b> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_bcbb4906> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_bd37f517> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_c92ad2b2> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_d5635549> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs/c_f3eff6a3> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
 <https://terra-vocabulary.org/ncl/FAIR-Incubator/earthsciencevariables/???> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
-    skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
-
-<https://terra-vocabulary.org/ncl/FAIR-Incubator/earthsciencevariables/c_3381906b> skos:broader <https://w3id.org/earthsemantics/THEIA_THES/theia-spatial> ;
     skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
 <https://w3id.org/ozcar-theia/c_00302ed7> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
