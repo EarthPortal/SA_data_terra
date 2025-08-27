@@ -269,6 +269,8 @@
 
 <https://w3id.org/ozcar-theia/c_0bdd2593> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
+<https://w3id.org/ozcar-theia/c_0bf7b8c6> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
 <https://w3id.org/ozcar-theia/c_0c00b9ca> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
 <https://w3id.org/ozcar-theia/c_0c334967> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
