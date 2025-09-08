@@ -5,7 +5,7 @@
 @prefix base: <https://vocab.aeris-data.fr/thesaurus> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> rdf:type owl:Ontology , skos:ConceptScheme ;
+<https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> rdf:type owl:Ontology , skos:ConceptScheme ;
                                         owl:imports <https://service.poleterresolide.fr/ttl/formaterre_product_20241011.rdf>,
                                                     <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/discipline/data?format=text%2Fturtle>,
                                                     <https://service.poleterresolide.fr/ttl/formater-platform-gn.rdf>,
@@ -14,53 +14,53 @@
                                                     <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/network/data?format=text%2Fturtle>,
                                                     <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/variable/data?format=text%2Fturtle>,
                                                     <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/foi/data?format=text%2Fturtle>;
-                                        skos:hasTopConcept <https://w3id.org/earthsemantics/FORMATERRE_THES/products>,
-                                                           <https://w3id.org/earthsemantics/FORMATERRE_THES/disciplinesandthemes>,
-                                                           <https://w3id.org/earthsemantics/FORMATERRE_THES/platforms>,
-                                                           <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments>,
-                                                           <https://w3id.org/earthsemantics/FORMATERRE_THES/networks>,
-                                                           <https://w3id.org/earthsemantics/FORMATERRE_THES/variables>,
-                                                           <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest>;
+                                        skos:hasTopConcept <https://w3id.org/earthsemantics/FORMATER_VOCAB/products>,
+                                                           <https://w3id.org/earthsemantics/FORMATER_VOCAB/disciplinesandthemes>,
+                                                           <https://w3id.org/earthsemantics/FORMATER_VOCAB/platforms>,
+                                                           <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments>,
+                                                           <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks>,
+                                                           <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables>,
+                                                           <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest>;
                                      rdfs:label "FormaTerre Thesaurus"@en, "Thésaurus FormaTerre"@fr .
 
-<https://w3id.org/earthsemantics/FORMATERRE_THES/products>
+<https://w3id.org/earthsemantics/FORMATER_VOCAB/products>
         a                  skos:Concept;
         skos:prefLabel "Products"@en, "Produits"@fr;
         rdfs:seeAlso <https://service.poleterresolide.fr/ttl/formaterre_product_20241011.rdf>;
-        skos:inScheme     <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus>  .
+        skos:inScheme     <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus>  .
 
-<https://w3id.org/earthsemantics/FORMATERRE_THES/disciplinesandthemes>
+<https://w3id.org/earthsemantics/FORMATER_VOCAB/disciplinesandthemes>
         a                  skos:Concept;
         skos:prefLabel "Disciplines and Themes"@en, "Disciplines et thèmes"@fr;
         rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/discipline/data?format=text%2Fturtle>;
-        skos:inScheme     <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus>  .
+        skos:inScheme     <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus>  .
 
-<https://w3id.org/earthsemantics/FORMATERRE_THES/platforms>
+<https://w3id.org/earthsemantics/FORMATER_VOCAB/platforms>
         a                  skos:Concept;
         skos:prefLabel "Platforms"@en, "Plateformes"@fr;
         rdfs:seeAlso <https://service.poleterresolide.fr/ttl/formater-platform-gn.rdf>;
-        skos:inScheme     <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus>  .
+        skos:inScheme     <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus>  .
 
-<https://w3id.org/earthsemantics/FORMATERRE_THES/instruments>
+<https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments>
         a                  skos:Concept;
         skos:prefLabel "Instruments"@en, "Instruments"@fr;
         rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/instrument/data?format=text%2Fturtle>;
-        skos:inScheme     <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus>  .
+        skos:inScheme     <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus>  .
 
-<https://w3id.org/earthsemantics/FORMATERRE_THES/networks>
+<https://w3id.org/earthsemantics/FORMATER_VOCAB/networks>
         a                  skos:Concept;
         skos:prefLabel "Networks"@en, "Réseaux"@fr;
         rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/network/data?format=text%2Fturtle>;
-        skos:inScheme     <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus>  .
+        skos:inScheme     <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus>  .
 
-<https://w3id.org/earthsemantics/FORMATERRE_THES/variables>
+<https://w3id.org/earthsemantics/FORMATER_VOCAB/variables>
         a                  skos:Concept;
         skos:prefLabel "Variables"@en, "Variables"@fr;
         rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/variable/data?format=text%2Fturtle>;
-        skos:inScheme     <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus>  .
+        skos:inScheme     <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus>  .
 
-<https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest>
+<https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest>
         a                  skos:Concept;
         skos:prefLabel "Feature of Interest"@en, "Catactéristique d'intérêt"@fr;
         rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/foi/data?format=text%2Fturtle>;
-        skos:inScheme     <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus>  .
+        skos:inScheme     <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus>  .

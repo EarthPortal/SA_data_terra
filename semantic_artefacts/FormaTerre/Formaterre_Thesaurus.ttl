@@ -2,623 +2,623 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_005d7490> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_005d7490> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_054a1b4b> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_054a1b4b> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_101c409b> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_101c409b> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_128fb562> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_128fb562> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_177f77a0> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_177f77a0> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_1c31b7ee> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_1c31b7ee> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_20b1dd6a> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_20b1dd6a> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_268468b2> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_268468b2> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_26c1f499> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_26c1f499> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_29379421> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_29379421> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_29973260> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_29973260> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_2e60aa11> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_2e60aa11> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_3170f1b6> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_3170f1b6> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_361ff6a3> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_361ff6a3> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_5885261b> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_5885261b> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_6153e5fd> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_6153e5fd> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_6302a18a> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_6302a18a> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_6870f893> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_6870f893> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_703c554c> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_703c554c> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_72c8ffb2> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_72c8ffb2> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_7609da2f> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_7609da2f> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_8642e930> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_8642e930> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_901d4d1a> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_901d4d1a> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_99d328c5> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_99d328c5> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_9b749668> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_9b749668> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_9d6b7ebf> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_9d6b7ebf> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_b1c1eac6> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_b1c1eac6> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_c73e9854> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_c73e9854> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_c84926e3> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_c84926e3> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_caca808c> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_caca808c> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_d3e41702> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_d3e41702> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_da34b5f1> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_da34b5f1> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_e0b20fca> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_e0b20fca> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_ec163c08> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_ec163c08> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_f15ecb79> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_f15ecb79> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_f590d6a6> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_f590d6a6> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_fbb472a4> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_fbb472a4> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/FOI/c_ff9839b6> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/FOI/c_ff9839b6> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0010000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0010000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0010100> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0010100> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0010200> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0010200> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0020000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0020000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0020100> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0020100> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0020200> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0020200> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0020300> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0020300> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0020301> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0020301> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0020302> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0020302> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0020303> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0020303> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0030000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0030000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0040000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0040000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0050000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0050000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0060000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0060000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0070000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0070000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0080000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0080000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0090000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0090000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0100000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0100000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0110000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0110000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/I0120000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/I0120000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/c_00218583> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/c_00218583> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/c_3b3f458f> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/c_3b3f458f> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/c_67b8a9eb> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/c_67b8a9eb> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/c_7b1de0b4> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/c_7b1de0b4> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/c_a6f7de06> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/c_a6f7de06> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/c_bf946f9e> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/c_bf946f9e> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/c_e34cc3f0> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/c_e34cc3f0> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/c_eabf00de> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/c_eabf00de> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/c_f209d4c5> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/c_f209d4c5> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/c_feadb2bb> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/instrument/c_feadb2bb> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_0b5771aa> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_0b5771aa> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_2b35f55f> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_2b35f55f> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_3b75b391> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_3b75b391> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_4ab1c42a> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_4ab1c42a> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_5aa8bcd4> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_5aa8bcd4> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_5b669472> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_5b669472> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_60263231> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_60263231> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_66cbf9f7> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_66cbf9f7> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_69aa82a0> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_69aa82a0> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_771db321> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_771db321> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_7ec97469> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_7ec97469> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_90eb08a9> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_90eb08a9> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_b7eba9c8> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_b7eba9c8> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_fcd860e3> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_fcd860e3> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P010000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/platforms> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P010000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/platforms> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P010100> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P010100> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P010200> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P010200> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P010300> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P010300> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P010400> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P010400> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P010500> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P010500> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P010600> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P010600> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P010700> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P010700> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P010800> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P010800> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P020000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/platforms> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P020000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/platforms> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P020100> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P020100> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P020101> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P020101> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P020102> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P020102> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P020103> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P020103> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P020104> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P020104> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P020105> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P020105> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P020106> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P020106> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P020107> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P020107> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P020108> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P020108> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P020109> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P020109> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P020110> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P020110> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/P020111> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/P020111> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/c_0e45d8a3> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/c_0e45d8a3> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/c_3f8f8fc7> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/c_3f8f8fc7> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/c_48aa6479> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/c_48aa6479> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/c_52a33e72> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/c_52a33e72> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/c_550596e2> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/c_550596e2> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/c_9dc5a02a> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/c_9dc5a02a> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/c_c7c4ec89> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/c_c7c4ec89> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/platform/c_eac9fdf1> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/platforms> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/platform/c_eac9fdf1> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/platforms> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/product/c_2c5f27c3> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/products> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/product/c_2c5f27c3> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/products> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/product/c_460292ab> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/products> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/product/c_460292ab> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/products> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/product/c_67446f9c> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/products> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/product/c_67446f9c> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/products> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/product/c_6c7b64ab> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/products> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/product/c_6c7b64ab> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/products> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/product/c_6fff7a77> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/products> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/product/c_6fff7a77> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/products> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/product/c_75126613> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/products> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/product/c_75126613> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/products> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/product/c_b29fa048> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/products> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/product/c_b29fa048> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/products> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/product/c_dc91339a> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/products> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/product/c_dc91339a> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/products> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/product/c_eb39fb05> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/products> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/product/c_eb39fb05> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/products> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D010000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/disciplinesandthemes> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D010000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/disciplinesandthemes> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D020000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/disciplinesandthemes> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D020000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/disciplinesandthemes> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D030000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/disciplinesandthemes> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D030000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/disciplinesandthemes> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D040000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/disciplinesandthemes> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D040000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/disciplinesandthemes> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D040100> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D040100> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D040200> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D040200> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D040300> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D040300> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D040400> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D040400> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D040500> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D040500> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D040600> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D040600> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D040700> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D040700> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D050000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/disciplinesandthemes> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D050000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/disciplinesandthemes> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D050100> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D050100> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D050200> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D050200> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D060000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/disciplinesandthemes> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D060000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/disciplinesandthemes> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D070000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/disciplinesandthemes> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D070000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/disciplinesandthemes> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D080000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/disciplinesandthemes> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D080000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/disciplinesandthemes> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D080100> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D080100> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D080200> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D080200> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D080300> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D080300> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D080400> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D080400> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D090000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/disciplinesandthemes> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D090000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/disciplinesandthemes> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D100000> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D100000> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D110000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/disciplinesandthemes> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D110000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/disciplinesandthemes> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D120000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/disciplinesandthemes> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D120000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/disciplinesandthemes> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/science_field/D130000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/disciplinesandthemes> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/science_field/D130000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/disciplinesandthemes> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/C0040000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/C0040000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0010000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0010000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0010100> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0010100> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0010200> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0010200> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0010300> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0010300> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0010400> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0010400> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0010500> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0010500> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0010600> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0010600> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0020000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0020000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0020100> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0020100> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0020200> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0020200> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0020300> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0020300> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0020400> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0020400> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0030000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0030000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0030100> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0030100> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0030200> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0030200> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0050000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0050000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0060000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0060000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0060100> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0060100> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0060200> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0060200> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0060300> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0060300> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0070000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0070000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0070100> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0070100> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0070200> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0070200> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0070300> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0070300> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0070400> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0070400> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0070500> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0070500> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0070600> skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0070600> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/V0080000> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/V0080000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_0bce151d> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_0bce151d> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_1f13e63f> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_1f13e63f> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_24ff6388> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_24ff6388> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_2983fb62> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_2983fb62> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_2cafb855> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_2cafb855> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_38d94245> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_38d94245> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_3ab247d7> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_3ab247d7> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_430e5ed3> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_430e5ed3> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_438204db> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_438204db> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_45a5a608> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_45a5a608> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_4a19f4bd> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_4a19f4bd> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_4dc87468> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_4dc87468> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_52add7f8> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_52add7f8> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_5c554e1b> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_5c554e1b> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_63104c2d> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_63104c2d> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_64907d05> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_64907d05> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_64ab4949> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_64ab4949> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_676b7a4d> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_676b7a4d> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_711861fc> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_711861fc> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_85ff72c7> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_85ff72c7> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_9019b77b> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_9019b77b> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_90597f56> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_90597f56> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_9292aa7f> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_9292aa7f> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_a64d2bbc> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_a64d2bbc> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_aedf62ee> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_aedf62ee> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_b43ac4ef> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_b43ac4ef> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_ba35835a> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_ba35835a> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_bdcf182d> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_bdcf182d> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_c7d31c2b> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_c7d31c2b> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_d00bcf0a> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_d00bcf0a> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_d127f137> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_d127f137> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_db147520> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_db147520> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_dcc2f883> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_dcc2f883> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_e20bd088> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_e20bd088> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_e89c01b2> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_e89c01b2> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_f1002cdc> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_f1002cdc> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/variable/c_f1f0ce46> skos:broader <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> .
+<https://service.poleterresolide.fr/voc/variable/c_f1f0ce46> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://w3id.org/earthsemantics/FORMATERRE_THES/platforms> a skos:Concept ;
+<https://w3id.org/earthsemantics/FORMATER_VOCAB/platforms> a skos:Concept ;
     rdfs:seeAlso <https://service.poleterresolide.fr/ttl/formater-platform-gn.rdf> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> ;
     skos:prefLabel "Platforms"@en,
         "Plateformes"@fr .
 
-<https://w3id.org/earthsemantics/FORMATERRE_THES/products> a skos:Concept ;
+<https://w3id.org/earthsemantics/FORMATER_VOCAB/products> a skos:Concept ;
     rdfs:seeAlso <https://service.poleterresolide.fr/ttl/formaterre_product_20241011.rdf> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> ;
     skos:prefLabel "Products"@en,
         "Produits"@fr .
 
-<https://w3id.org/earthsemantics/FORMATERRE_THES/disciplinesandthemes> a skos:Concept ;
+<https://w3id.org/earthsemantics/FORMATER_VOCAB/disciplinesandthemes> a skos:Concept ;
     rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/discipline/data?format=text%2Fturtle> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> ;
     skos:prefLabel "Disciplines and Themes"@en,
         "Disciplines et thèmes"@fr .
 
-<https://w3id.org/earthsemantics/FORMATERRE_THES/networks> a skos:Concept ;
+<https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> a skos:Concept ;
     rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/network/data?format=text%2Fturtle> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> ;
     skos:prefLabel "Networks"@en,
         "Réseaux"@fr .
 
-<https://w3id.org/earthsemantics/FORMATERRE_THES/instruments> a skos:Concept ;
+<https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> a skos:Concept ;
     rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/instrument/data?format=text%2Fturtle> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> ;
     skos:prefLabel "Instruments"@en,
         "Instruments"@fr .
 
-<https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest> a skos:Concept ;
+<https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> a skos:Concept ;
     rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/foi/data?format=text%2Fturtle> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> ;
     skos:prefLabel "Feature of Interest"@en,
         "Catactéristique d'intérêt"@fr .
 
-<https://w3id.org/earthsemantics/FORMATERRE_THES/variables> a skos:Concept ;
+<https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> a skos:Concept ;
     rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/variable/data?format=text%2Fturtle> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> ;
     skos:prefLabel "Variables"@en,
         "Variables"@fr .
 
-<https://w3id.org/earthsemantics/FORMATERRE_THES/thesaurus> a owl:Ontology,
+<https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> a owl:Ontology,
         skos:ConceptScheme ;
     rdfs:label "FormaTerre Thesaurus"@en,
         "Thésaurus FormaTerre"@fr ;
@@ -629,11 +629,11 @@
         <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/variable/data?format=text%2Fturtle>,
         <https://service.poleterresolide.fr/ttl/formater-platform-gn.rdf>,
         <https://service.poleterresolide.fr/ttl/formaterre_product_20241011.rdf> ;
-    skos:hasTopConcept <https://w3id.org/earthsemantics/FORMATERRE_THES/disciplinesandthemes>,
-        <https://w3id.org/earthsemantics/FORMATERRE_THES/featureofinterest>,
-        <https://w3id.org/earthsemantics/FORMATERRE_THES/instruments>,
-        <https://w3id.org/earthsemantics/FORMATERRE_THES/networks>,
-        <https://w3id.org/earthsemantics/FORMATERRE_THES/platforms>,
-        <https://w3id.org/earthsemantics/FORMATERRE_THES/products>,
-        <https://w3id.org/earthsemantics/FORMATERRE_THES/variables> .
+    skos:hasTopConcept <https://w3id.org/earthsemantics/FORMATER_VOCAB/disciplinesandthemes>,
+        <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest>,
+        <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments>,
+        <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks>,
+        <https://w3id.org/earthsemantics/FORMATER_VOCAB/platforms>,
+        <https://w3id.org/earthsemantics/FORMATER_VOCAB/products>,
+        <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables> .
 
