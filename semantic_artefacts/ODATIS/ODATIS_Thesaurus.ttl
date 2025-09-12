@@ -1,8 +1,8 @@
 @prefix base: <https://w3id.org/earthsemantics/ODATIS/thesaurus> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://www.isotc211.org/schemas/grg/> .
-@prefix ns2: <http://purl.org/pav/> .
+@prefix ns1: <http://purl.org/pav/> .
+@prefix ns2: <http://www.isotc211.org/schemas/grg/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
@@ -15,8 +15,8 @@
     dcterms:description "Collection of terms used within the French Ocean Data and Services Cluster ODATIS for data discovery and product or dataset aggregation. Whenever applicable, Essential Variable terms are linked to the authoritative source of Essential Climate Ocean and Biodiversity Variable definitions maintained by the Global Observing System for Climate (GCOS), the Global Ocean Observing System (GOOS) and the Group on Earth Observations Biodiversity Observation Network (GEO BON)." ;
     dcterms:publisher "Natural Environment Research Council" ;
     dcterms:title "ODATIS aggregation parameters and Essential Variable names" ;
-    ns1:RE_RegisterManager "British Oceanographic Data Centre" ;
-    ns1:RE_RegisterOwner "ODATIS vocabulary governance" ;
+    ns2:RE_RegisterManager "British Oceanographic Data Centre" ;
+    ns2:RE_RegisterOwner "ODATIS vocabulary governance" ;
     rdfs:comment "Governance for vocabularies used in the ODATIS Ocean Data and Services Cluster of the French Data Terra Research Infrastructure and hosted on the NVS." ;
     owl:versionInfo "8" ;
     skos:altLabel "ODATIS APG and EV" ;
@@ -194,9 +194,9 @@
     dc:identifier "SDN:OD1::ACOUST" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::ACOUST" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/ACOUST/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/ACOUST/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P03/current/D005/> ;
@@ -214,9 +214,9 @@
     dc:identifier "SDN:OD1::AERO" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::AERO" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/AERO/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/AERO/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P02/current/ATPC/>,
@@ -237,9 +237,9 @@
     dc:identifier "SDN:OD1::AIRPRES" ;
     dcterms:date "2023-10-10 14:51:12.0" ;
     dcterms:identifier "SDN:OD1::AIRPRES" ;
-    ns2:authoredOn "2023-10-10 14:51:12.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/AIRPRES/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-10-10 14:51:12.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/AIRPRES/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/A05/current/EV_AIRPRESS/>,
@@ -260,9 +260,9 @@
     dc:identifier "SDN:OD1::AIRTEMP" ;
     dcterms:date "2023-10-10 14:51:12.0" ;
     dcterms:identifier "SDN:OD1::AIRTEMP" ;
-    ns2:authoredOn "2023-10-10 14:51:12.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/AIRTEMP/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-10-10 14:51:12.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/AIRTEMP/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/A05/current/EV_AIRTEMP/>,
@@ -283,9 +283,9 @@
     dc:identifier "SDN:OD1::BATHY" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::BATHY" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/BATHY/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/BATHY/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P03/current/G005/> ;
@@ -305,9 +305,9 @@
     dc:identifier "SDN:OD1::BENTHA" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::BENTHA" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/BENTHA/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/BENTHA/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P03/current/B050/>,
@@ -328,9 +328,9 @@
     dc:identifier "SDN:OD1::BIOINFO" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::BIOINFO" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/BIOINFO/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/BIOINFO/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:versionInfo "1" ;
@@ -350,9 +350,9 @@
     dc:identifier "SDN:OD1::BIOTOX" ;
     dcterms:date "2023-10-10 14:51:12.0" ;
     dcterms:identifier "SDN:OD1::BIOTOX" ;
-    ns2:authoredOn "2023-10-10 14:51:12.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/BIOTOX/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-10-10 14:51:12.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/BIOTOX/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P02/current/BCOC/>,
@@ -374,9 +374,9 @@
     dc:identifier "SDN:OD1::C02" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::C02" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/C02/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/C02/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/A05/current/EV_CO2/>,
@@ -400,9 +400,9 @@
     dc:identifier "SDN:OD1::COLOUR" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::COLOUR" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/COLOUR/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/COLOUR/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:versionInfo "1" ;
@@ -421,9 +421,9 @@
     dc:identifier "SDN:OD1::CONT" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::CONT" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/CONT/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/CONT/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:versionInfo "1" ;
@@ -452,9 +452,9 @@
     dc:identifier "SDN:OD1::CURR" ;
     dcterms:date "2023-10-10 14:51:12.0" ;
     dcterms:identifier "SDN:OD1::CURR" ;
-    ns2:authoredOn "2023-10-10 14:51:12.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/CURR/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-10-10 14:51:12.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/CURR/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/A05/current/EV_CURR/>,
@@ -475,9 +475,9 @@
     dc:identifier "SDN:OD1::DENS" ;
     dcterms:date "2024-06-06 16:49:45.0" ;
     dcterms:identifier "SDN:OD1::DENS" ;
-    ns2:authoredOn "2024-06-06 16:49:45.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/DENS/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2024-06-06 16:49:45.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/DENS/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P02/current/CAPH/>,
@@ -498,9 +498,9 @@
     dc:identifier "SDN:OD1::DOM" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::DOM" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/DOM/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/DOM/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/A05/current/EV_DOM/> ;
@@ -523,9 +523,9 @@
     dc:identifier "SDN:OD1::DOXY" ;
     dcterms:date "2023-10-10 14:51:12.0" ;
     dcterms:identifier "SDN:OD1::DOXY" ;
-    ns2:authoredOn "2023-10-10 14:51:12.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/DOXY/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-10-10 14:51:12.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/DOXY/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/A05/current/EV_OXY/>,
@@ -545,9 +545,9 @@
     dc:identifier "SDN:OD1::FISH" ;
     dcterms:date "2024-06-06 16:49:45.0" ;
     dcterms:identifier "SDN:OD1::FISH" ;
-    ns2:authoredOn "2024-06-06 16:49:45.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/FISH/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2024-06-06 16:49:45.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/FISH/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P03/current/B020/> ;
@@ -566,9 +566,9 @@
     dc:identifier "SDN:OD1::FLUO" ;
     dcterms:date "2024-06-06 16:49:45.0" ;
     dcterms:identifier "SDN:OD1::FLUO" ;
-    ns2:authoredOn "2024-06-06 16:49:45.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/FLUO/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2024-06-06 16:49:45.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/FLUO/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P02/current/CMFL/>,
@@ -588,9 +588,9 @@
     dc:identifier "SDN:OD1::GEOL" ;
     dcterms:date "2024-06-06 16:49:45.0" ;
     dcterms:identifier "SDN:OD1::GEOL" ;
-    ns2:authoredOn "2024-06-06 16:49:45.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/GEOL/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2024-06-06 16:49:45.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/GEOL/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P08/current/DS04/> ;
@@ -607,9 +607,9 @@
     dc:identifier "SDN:OD1::HCORAL" ;
     dcterms:date "2024-06-06 16:49:45.0" ;
     dcterms:identifier "SDN:OD1::HCORAL" ;
-    ns2:authoredOn "2024-06-06 16:49:45.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/HCORAL/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2024-06-06 16:49:45.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/HCORAL/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:versionInfo "1" ;
@@ -625,9 +625,9 @@
     dc:identifier "SDN:OD1::HEATCON" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::HEATCON" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/HEATCON/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/HEATCON/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:versionInfo "1" ;
@@ -644,9 +644,9 @@
     dc:identifier "SDN:OD1::HUMACT" ;
     dcterms:date "2024-06-06 16:49:45.0" ;
     dcterms:identifier "SDN:OD1::HUMACT" ;
-    ns2:authoredOn "2024-06-06 16:49:45.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/HUMACT/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2024-06-06 16:49:45.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/HUMACT/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P08/current/DS12/> ;
@@ -663,9 +663,9 @@
     dc:identifier "SDN:OD1::HUMI" ;
     dcterms:date "2023-10-16 17:23:15.0" ;
     dcterms:identifier "SDN:OD1::HUMI" ;
-    ns2:authoredOn "2023-10-16 17:23:15.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/HUMI/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-10-16 17:23:15.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/HUMI/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/A05/current/EV_AIRHUM/>,
@@ -686,9 +686,9 @@
     dc:identifier "SDN:OD1::INVER" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::INVER" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/INVER/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/INVER/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:versionInfo "1" ;
@@ -706,9 +706,9 @@
     dc:identifier "SDN:OD1::MACALG" ;
     dcterms:date "2024-06-06 16:49:45.0" ;
     dcterms:identifier "SDN:OD1::MACALG" ;
-    ns2:authoredOn "2024-06-06 16:49:45.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/MACALG/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2024-06-06 16:49:45.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/MACALG/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P03/current/B055/> ;
@@ -726,9 +726,9 @@
     dc:identifier "SDN:OD1::MANG" ;
     dcterms:date "2024-06-06 16:49:45.0" ;
     dcterms:identifier "SDN:OD1::MANG" ;
-    ns2:authoredOn "2024-06-06 16:49:45.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/MANG/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2024-06-06 16:49:45.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/MANG/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:versionInfo "1" ;
@@ -746,9 +746,9 @@
     dc:identifier "SDN:OD1::MTBM" ;
     dcterms:date "2024-06-06 16:49:45.0" ;
     dcterms:identifier "SDN:OD1::MTBM" ;
-    ns2:authoredOn "2024-06-06 16:49:45.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/MTBM/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2024-06-06 16:49:45.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/MTBM/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P03/current/B015/> ;
@@ -766,9 +766,9 @@
     dc:identifier "SDN:OD1::N2O" ;
     dcterms:date "2023-10-10 14:51:12.0" ;
     dcterms:identifier "SDN:OD1::N2O" ;
-    ns2:authoredOn "2023-10-10 14:51:12.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/N2O/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-10-10 14:51:12.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/N2O/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/A05/current/EV_N2O/>,
@@ -789,9 +789,9 @@
     dc:identifier "SDN:OD1::NUTS" ;
     dcterms:date "2023-10-10 14:51:12.0" ;
     dcterms:identifier "SDN:OD1::NUTS" ;
-    ns2:authoredOn "2023-10-10 14:51:12.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/NUTS/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-10-10 14:51:12.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/NUTS/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/A05/current/EV_NUTS/>,
@@ -810,9 +810,9 @@
     dc:identifier "SDN:OD1::PATHOGEN" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::PATHOGEN" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/PATHOGEN/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/PATHOGEN/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P03/current/B005/> ;
@@ -831,9 +831,9 @@
     dc:identifier "SDN:OD1::PHYTO" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::PHYTO" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/PHYTO/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/PHYTO/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:versionInfo "1" ;
@@ -858,10 +858,10 @@
     dc:identifier "SDN:OD1::PIGM" ;
     dcterms:date "2023-10-03 16:46:59.0" ;
     dcterms:identifier "SDN:OD1::PIGM" ;
-    ns2:authoredOn "2023-10-03 16:46:59.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/PIGM/2/> ;
-    ns2:hasVersion <http://vocab.nerc.ac.uk/collection/OD1/current/PIGM/1/> ;
-    ns2:version "2" ;
+    ns1:authoredOn "2023-10-03 16:46:59.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/PIGM/2/> ;
+    ns1:hasVersion <http://vocab.nerc.ac.uk/collection/OD1/current/PIGM/1/> ;
+    ns1:version "2" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P03/current/B035/> ;
@@ -883,9 +883,9 @@
     dc:identifier "SDN:OD1::PRESS" ;
     dcterms:date "2023-10-10 14:51:12.0" ;
     dcterms:identifier "SDN:OD1::PRESS" ;
-    ns2:authoredOn "2023-10-10 14:51:12.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/PRESS/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-10-10 14:51:12.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/PRESS/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:versionInfo "1" ;
@@ -904,9 +904,9 @@
     dc:identifier "SDN:OD1::RADFLX" ;
     dcterms:date "2023-10-10 14:51:12.0" ;
     dcterms:identifier "SDN:OD1::RADFLX" ;
-    ns2:authoredOn "2023-10-10 14:51:12.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/RADFLX/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-10-10 14:51:12.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/RADFLX/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/A05/current/EV_RADFLX/> ;
@@ -931,9 +931,9 @@
     dc:identifier "SDN:OD1::RAIN" ;
     dcterms:date "2023-10-10 14:51:12.0" ;
     dcterms:identifier "SDN:OD1::RAIN" ;
-    ns2:authoredOn "2023-10-10 14:51:12.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/RAIN/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-10-10 14:51:12.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/RAIN/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/A05/current/EV_RAIN/>,
@@ -956,9 +956,9 @@
     dc:identifier "SDN:OD1::SAL" ;
     dcterms:date "2023-10-10 14:51:12.0" ;
     dcterms:identifier "SDN:OD1::SAL" ;
-    ns2:authoredOn "2023-10-10 14:51:12.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SAL/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-10-10 14:51:12.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SAL/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/A05/current/EV_SALIN/>,
@@ -978,9 +978,9 @@
     dc:identifier "SDN:OD1::SEAICE" ;
     dcterms:date "2023-10-10 14:51:12.0" ;
     dcterms:identifier "SDN:OD1::SEAICE" ;
-    ns2:authoredOn "2023-10-10 14:51:12.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SEAICE/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-10-10 14:51:12.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SEAICE/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <https://gcos.wmo.int/en/essential-climate-variables/sea-ice> ;
@@ -1001,9 +1001,9 @@
     dc:identifier "SDN:OD1::SEALVL" ;
     dcterms:date "2023-10-10 14:51:12.0" ;
     dcterms:identifier "SDN:OD1::SEALVL" ;
-    ns2:authoredOn "2023-10-10 14:51:12.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SEALVL/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-10-10 14:51:12.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SEALVL/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/A05/current/EV_SEALVL/> ;
@@ -1023,9 +1023,9 @@
     dc:identifier "SDN:OD1::SEATEMP" ;
     dcterms:date "2023-10-10 14:51:12.0" ;
     dcterms:identifier "SDN:OD1::SEATEMP" ;
-    ns2:authoredOn "2023-10-10 14:51:12.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SEATEMP/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-10-10 14:51:12.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SEATEMP/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/A05/current/EV_SEATEMP/>,
@@ -1045,10 +1045,10 @@
     dc:identifier "SDN:OD1::SEDFLUX" ;
     dcterms:date "2023-10-03 16:46:59.0" ;
     dcterms:identifier "SDN:OD1::SEDFLUX" ;
-    ns2:authoredOn "2023-10-03 16:46:59.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SEDFLUX/2/> ;
-    ns2:hasVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SEDFLUX/1/> ;
-    ns2:version "2" ;
+    ns1:authoredOn "2023-10-03 16:46:59.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SEDFLUX/2/> ;
+    ns1:hasVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SEDFLUX/1/> ;
+    ns1:version "2" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:versionInfo "2" ;
@@ -1066,9 +1066,9 @@
     dc:identifier "SDN:OD1::SEISM" ;
     dcterms:date "2024-06-06 16:49:45.0" ;
     dcterms:identifier "SDN:OD1::SEISM" ;
-    ns2:authoredOn "2024-06-06 16:49:45.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SEISM/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2024-06-06 16:49:45.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SEISM/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P03/current/G012/> ;
@@ -1086,9 +1086,9 @@
     dc:identifier "SDN:OD1::SGRAS" ;
     dcterms:date "2024-06-06 16:49:45.0" ;
     dcterms:identifier "SDN:OD1::SGRAS" ;
-    ns2:authoredOn "2024-06-06 16:49:45.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SGRAS/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2024-06-06 16:49:45.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SGRAS/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P03/current/B055/> ;
@@ -1106,9 +1106,9 @@
     dc:identifier "SDN:OD1::SHORE" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::SHORE" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SHORE/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SHORE/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P02/current/COGE/> ;
@@ -1127,9 +1127,9 @@
     dc:identifier "SDN:OD1::SUSPMA" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::SUSPMA" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SUSPMA/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/SUSPMA/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P03/current/G015/> ;
@@ -1148,10 +1148,10 @@
     dc:identifier "SDN:OD1::TIDES" ;
     dcterms:date "2023-10-22 17:27:16.0" ;
     dcterms:identifier "SDN:OD1::TIDES" ;
-    ns2:authoredOn "2023-10-22 17:27:16.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/TIDES/2/> ;
-    ns2:hasVersion <http://vocab.nerc.ac.uk/collection/OD1/current/TIDES/1/> ;
-    ns2:version "2" ;
+    ns1:authoredOn "2023-10-22 17:27:16.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/TIDES/2/> ;
+    ns1:hasVersion <http://vocab.nerc.ac.uk/collection/OD1/current/TIDES/1/> ;
+    ns1:version "2" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:versionInfo "2" ;
@@ -1170,9 +1170,9 @@
     dc:identifier "SDN:OD1::TRACELE" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::TRACELE" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/TRACELE/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/TRACELE/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P03/current/C030/> ;
@@ -1192,9 +1192,9 @@
     dc:identifier "SDN:OD1::TRANST" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::TRANST" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/TRANST/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/TRANST/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/A05/current/EV_TTRACE/>,
@@ -1215,9 +1215,9 @@
     dc:identifier "SDN:OD1::TURBID" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::TURBID" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/TURBID/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/TURBID/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P02/current/TSED/>,
@@ -1240,9 +1240,9 @@
     dc:identifier "SDN:OD1::WAVES" ;
     dcterms:date "2023-10-10 14:51:12.0" ;
     dcterms:identifier "SDN:OD1::WAVES" ;
-    ns2:authoredOn "2023-10-10 14:51:12.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/WAVES/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-10-10 14:51:12.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/WAVES/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/A05/current/EV_WAVES/>,
@@ -1261,9 +1261,9 @@
     dc:identifier "SDN:OD1::WIND" ;
     dcterms:date "2023-10-10 14:51:12.0" ;
     dcterms:identifier "SDN:OD1::WIND" ;
-    ns2:authoredOn "2023-10-10 14:51:12.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/WIND/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-10-10 14:51:12.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/WIND/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:versionInfo "1" ;
@@ -1284,9 +1284,9 @@
     dc:identifier "SDN:OD1::ZOO" ;
     dcterms:date "2023-09-28 13:57:47.0" ;
     dcterms:identifier "SDN:OD1::ZOO" ;
-    ns2:authoredOn "2023-09-28 13:57:47.0" ;
-    ns2:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/ZOO/1/> ;
-    ns2:version "1" ;
+    ns1:authoredOn "2023-09-28 13:57:47.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/ZOO/1/> ;
+    ns1:version "1" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P03/current/B045/> ;
