@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs every day at 4:30 PM UTC (approximates 5:30 PM CET)
     - cron: '30 16 * * *'
-    
+
   workflow_dispatch:
 
 jobs:
@@ -13,12 +13,14 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        # Pinned on purpose: '3.x' followed the newest release and broke this
+        # workflow when Python 3.14 shipped (rdflib failed to import).
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.13'
 
       - name: Install dependencies
         run: |
@@ -27,18 +29,31 @@ jobs:
           fi
 
       - name: Run Python script
+        # Each vocabulary is attempted even if an earlier one fails, so that one
+        # unreachable source does not hold back the others. The step still ends
+        # non-zero so the failure is visible.
         run: |
-          python scripts/RegroupVocab.py -i semantic_artefacts/AERIS/AERIS_base.ttl -o semantic_artefacts/AERIS/AERIS_Thesaurus.ttl
-          python scripts/RegroupVocab.py -i semantic_artefacts/ODATIS/ODATIS_base.ttl -o semantic_artefacts/ODATIS/ODATIS_Thesaurus.ttl -c "http://vocab.nerc.ac.uk/collection/OD1/current/?_profile=nvs&_mediatype=text/turtle"
-          python scripts/RegroupVocab.py -i semantic_artefacts/EaSyData/EaSyData_base.ttl -o semantic_artefacts/EaSyData/EaSyData_Thesaurus.ttl
-          python scripts/RegroupVocab.py -i semantic_artefacts/Theia/Theia_base.ttl -o semantic_artefacts/Theia/Theia_Thesaurus.ttl
-          python scripts/RegroupVocab.py -i semantic_artefacts/FormaTerre/Formaterre_base.ttl -o semantic_artefacts/FormaTerre/Formaterre_Thesaurus.ttl
+          rc=0
+          regroup() {
+            echo "::group::$*"
+            python scripts/RegroupVocab.py "$@" || { echo "::error::regroup failed: $*"; rc=1; }
+            echo "::endgroup::"
+          }
+          regroup -i semantic_artefacts/AERIS/AERIS_base.ttl -o semantic_artefacts/AERIS/AERIS_Thesaurus.ttl
+          regroup -i semantic_artefacts/ODATIS/ODATIS_base.ttl -o semantic_artefacts/ODATIS/ODATIS_Thesaurus.ttl -c "http://vocab.nerc.ac.uk/collection/OD1/current/?_profile=nvs&_mediatype=text/turtle"
+          regroup -i semantic_artefacts/EaSyData/EaSyData_base.ttl -o semantic_artefacts/EaSyData/EaSyData_Thesaurus.ttl
+          regroup -i semantic_artefacts/Theia/Theia_base.ttl -o semantic_artefacts/Theia/Theia_Thesaurus.ttl
+          regroup -i semantic_artefacts/FormaTerre/Formaterre_base.ttl -o semantic_artefacts/FormaTerre/Formaterre_Thesaurus.ttl
+          exit $rc
 
       # Compare the output file and commit changes if different
       - name: Check if file has been updated and commit changes
+        # always(): commit the vocabularies that did regenerate, even when
+        # another one failed above.
+        if: always()
         run: |
           sa_folder="semantic_artefacts"
-          
+
           # Check if the original file has been updated by comparing it with the previously committed version
           git diff --quiet "$sa_folder" || {
             echo "Changes detected in $sa_folder, committing changes..."

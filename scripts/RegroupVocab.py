@@ -3,20 +3,21 @@ from argparse import ArgumentParser
 from pathlib import Path
 
 def load_rdf_vocabulary_from_uri(url):
+    # Failures are raised, never swallowed: returning an empty graph here used
+    # to make the script serialize a silently truncated thesaurus, which then
+    # got committed and published as if it were a legitimate new version.
+    if url is None:
+        raise ValueError("No source URL to load (missing rdfs:seeAlso on the top concept?)")
+
     remote_graph = Graph()
-    try:
-        for fmt in ["xml", "turtle", "nt", "json-ld"]:
-            try:
-                remote_graph.parse(url, format=fmt)
-                print(f"Loaded {len(remote_graph)} triples from {url} using format {fmt}")
-                break  # Exit loop on successful parse
-            except Exception:
-                continue  # Try the next format
-        else:
-            raise ValueError(f"Failed to parse {url} in any recognized format.")
-    except Exception as e:
-        print(f"An error occurred while loading {url}: {e}")
-    return remote_graph
+    for fmt in ["xml", "turtle", "nt", "json-ld"]:
+        try:
+            remote_graph.parse(url, format=fmt)
+            print(f"Loaded {len(remote_graph)} triples from {url} using format {fmt}")
+            return remote_graph
+        except Exception:
+            continue  # Try the next format
+    raise ValueError(f"Failed to parse {url} in any recognized format.")
 
 def get_level_1_concepts_uris(graph):
     # Initialiser une liste pour stocker les URI des concepts de niveau 1

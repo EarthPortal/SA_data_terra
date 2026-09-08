@@ -10,10 +10,10 @@
                                                     <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/discipline/data?format=text%2Fturtle>,
                                                     <https://service.poleterresolide.fr/ttl/formater-platform-gn.rdf>,
                                                     <https://service.poleterresolide.fr/ttl/formater-platform-gn.rdf>,
-                                                    <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/instrument/data?format=text%2Fturtle>,
-                                                    <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/network/data?format=text%2Fturtle>,
+                                                    <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/instrument/data?format=application%2Frdf%2Bxml>,
+                                                    <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/network/data?format=application%2Frdf%2Bxml>,
                                                     <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/variable/data?format=text%2Fturtle>,
-                                                    <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/foi/data?format=text%2Fturtle>;
+                                                    <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/foi/data?format=application%2Frdf%2Bxml>;
                                         skos:hasTopConcept <https://w3id.org/earthsemantics/FORMATER_VOCAB/products>,
                                                            <https://w3id.org/earthsemantics/FORMATER_VOCAB/disciplinesandthemes>,
                                                            <https://w3id.org/earthsemantics/FORMATER_VOCAB/platforms>,
@@ -44,13 +44,13 @@
 <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments>
         a                  skos:Concept;
         skos:prefLabel "Instruments"@en, "Instruments"@fr;
-        rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/instrument/data?format=text%2Fturtle>;
+        rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/instrument/data?format=application%2Frdf%2Bxml>;
         skos:inScheme     <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus>  .
 
 <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks>
         a                  skos:Concept;
         skos:prefLabel "Networks"@en, "Réseaux"@fr;
-        rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/network/data?format=text%2Fturtle>;
+        rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/network/data?format=application%2Frdf%2Bxml>;
         skos:inScheme     <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus>  .
 
 <https://w3id.org/earthsemantics/FORMATER_VOCAB/variables>
@@ -62,5 +62,5 @@
 <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest>
         a                  skos:Concept;
         skos:prefLabel "Feature of Interest"@en, "Catactéristique d'intérêt"@fr;
-        rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/foi/data?format=text%2Fturtle>;
+        rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/foi/data?format=application%2Frdf%2Bxml>;
         skos:inScheme     <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus>  .
