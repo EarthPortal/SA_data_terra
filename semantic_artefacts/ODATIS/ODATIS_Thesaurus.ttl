@@ -11,14 +11,14 @@
 <http://vocab.nerc.ac.uk/collection/OD1/current/> a skos:Collection ;
     dcterms:alternative "ODATIS APG and EV" ;
     dcterms:creator "ODATIS vocabulary governance" ;
-    dcterms:date "2024-06-07 03:00:04.0" ;
+    dcterms:date "2026-02-03 02:00:01.0" ;
     dcterms:description "Collection of terms used within the French Ocean Data and Services Cluster ODATIS for data discovery and product or dataset aggregation. Whenever applicable, Essential Variable terms are linked to the authoritative source of Essential Climate Ocean and Biodiversity Variable definitions maintained by the Global Observing System for Climate (GCOS), the Global Ocean Observing System (GOOS) and the Group on Earth Observations Biodiversity Observation Network (GEO BON)." ;
     dcterms:publisher "Natural Environment Research Council" ;
     dcterms:title "ODATIS aggregation parameters and Essential Variable names" ;
     ns2:RE_RegisterManager "British Oceanographic Data Centre" ;
     ns2:RE_RegisterOwner "ODATIS vocabulary governance" ;
     rdfs:comment "Governance for vocabularies used in the ODATIS Ocean Data and Services Cluster of the French Data Terra Research Infrastructure and hosted on the NVS." ;
-    owl:versionInfo "8" ;
+    owl:versionInfo "9" ;
     skos:altLabel "ODATIS APG and EV" ;
     skos:member <http://vocab.nerc.ac.uk/collection/OD1/current/ACOUST/>,
         <http://vocab.nerc.ac.uk/collection/OD1/current/AERO/>,
@@ -162,6 +162,9 @@
 <https://vocab.ifremer.fr/scheme/SXT/odatis_centre_donnees/730d8bf9-3a8c-4a21-bdf3-614968c5e3cb> skos:broader <https://w3id.org/earthsemantics/ODATIS/odatis_centre_donnees> ;
     skos:inScheme base: .
 
+<https://vocab.ifremer.fr/scheme/SXT/odatis_centre_donnees/747fba10-112c-49f3-842d-5cb808fb8206> skos:broader <https://w3id.org/earthsemantics/ODATIS/odatis_centre_donnees> ;
+    skos:inScheme base: .
+
 <https://vocab.ifremer.fr/scheme/SXT/odatis_centre_donnees/807b0273-8206-420f-91f4-e0dcdd13110c> skos:broader <https://w3id.org/earthsemantics/ODATIS/odatis_centre_donnees> ;
     skos:inScheme base: .
 
@@ -192,18 +195,19 @@
 
 <http://vocab.nerc.ac.uk/collection/OD1/current/ACOUST/> a skos:Concept ;
     dc:identifier "SDN:OD1::ACOUST" ;
-    dcterms:date "2023-09-28 13:57:47.0" ;
+    dcterms:date "2026-02-02 15:05:36.0" ;
     dcterms:identifier "SDN:OD1::ACOUST" ;
-    ns1:authoredOn "2023-09-28 13:57:47.0" ;
-    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/ACOUST/1/> ;
-    ns1:version "1" ;
+    ns1:authoredOn "2026-02-02 15:05:36.0" ;
+    ns1:hasCurrentVersion <http://vocab.nerc.ac.uk/collection/OD1/current/ACOUST/2/> ;
+    ns1:hasVersion <http://vocab.nerc.ac.uk/collection/OD1/current/ACOUST/1/> ;
+    ns1:version "2" ;
     void:inDataset <http://vocab.nerc.ac.uk/.well-known/void> ;
     owl:deprecated "false" ;
     owl:sameAs <http://vocab.nerc.ac.uk/collection/P03/current/D005/> ;
-    owl:versionInfo "1" ;
+    owl:versionInfo "2" ;
     skos:altLabel "" ;
     skos:broader <http://vocab.nerc.ac.uk/collection/P08/current/DS03/> ;
-    skos:definition "Scientific field of study pertaining to sound emission and propagation in the marine environment. This topic includes the measurement of sound characteristics and the information they provide in the fields of telluric and hydroclimatic risk, biodiversity inventory and evolution, and anthropic impact."@en,
+    skos:definition "Scientific field of study pertaining to sound emission and propagation in the marine environment. This topic includes the measurement of sound characteristics and the information they provide in the fields of telluric and hydroclimatic risk, biodiversity inventory and evolution, and anthropic impact. It includes also acoustic backscatter in the water column."@en,
         "Non displonible"@fr ;
     skos:notation "SDN:OD1::ACOUST" ;
     skos:note "accepted"@en ;

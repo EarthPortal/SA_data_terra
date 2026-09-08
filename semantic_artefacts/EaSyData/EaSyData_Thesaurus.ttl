@@ -3,7 +3,6 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix version: <http://purl.org/linked-data/version#> .
 
 <https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/InfraRecherche/c_0046ba75> skos:broader base:Infrastructure ;
     skos:inScheme base:ThesaurusAll .
@@ -84,6 +83,9 @@
     skos:inScheme base:ThesaurusAll .
 
 <https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/InfraRecherche/c_c84eb109> skos:broader base:Infrastructure ;
+    skos:inScheme base:ThesaurusAll .
+
+<https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/InfraRecherche/c_d4212c14g> skos:broader base:Infrastructure ;
     skos:inScheme base:ThesaurusAll .
 
 <https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/InfraRecherche/c_d4212c6b> skos:broader base:Infrastructure ;
@@ -2759,7 +2761,6 @@ base:ThesaurusAll a owl:Ontology,
         skos:ConceptScheme ;
     rdfs:label "EaSy Data Thesaurus directly import from TerraVocab"@en ;
     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    owl:versionInfo  "1.0" ;
     owl:imports <https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/InfraRecherche?_format=ttl&_view=with_metadata&status=valid>,
         <https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/Voc_thematique?_format=ttl&_view=with_metadata&status=valid>,
         <https://terra-vocabulary.org/ncl/DataTerraRepositoryFairIncubator/motsClefs?_format=ttl&_view=with_metadata&status=valid> ;

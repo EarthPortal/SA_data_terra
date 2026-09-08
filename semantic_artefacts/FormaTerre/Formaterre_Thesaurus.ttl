@@ -116,6 +116,30 @@
 <https://service.poleterresolide.fr/voc/FOI/c_ff9839b6> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
     skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
+<https://service.poleterresolide.fr/voc/c_23d34d03> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
+
+<https://service.poleterresolide.fr/voc/c_6306ee95> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
+
+<https://service.poleterresolide.fr/voc/c_7e8d13dd> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
+
+<https://service.poleterresolide.fr/voc/c_91e25c21> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
+
+<https://service.poleterresolide.fr/voc/c_98e1b876> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
+
+<https://service.poleterresolide.fr/voc/c_9e053eb1> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
+
+<https://service.poleterresolide.fr/voc/c_9ef66f78> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
+
+<https://service.poleterresolide.fr/voc/c_b5b8d8fa> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
+
+<https://service.poleterresolide.fr/voc/c_d2fb9500> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
+
+<https://service.poleterresolide.fr/voc/c_d46cbe6c> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
+
 <https://service.poleterresolide.fr/voc/instrument/I0010000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
     skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
@@ -179,9 +203,6 @@
 <https://service.poleterresolide.fr/voc/instrument/c_3b3f458f> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
     skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/instrument/c_67b8a9eb> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
-
 <https://service.poleterresolide.fr/voc/instrument/c_7b1de0b4> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> ;
     skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
@@ -209,11 +230,7 @@
 <https://service.poleterresolide.fr/voc/network/c_2b35f55f> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
     skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_3b75b391> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
-
-<https://service.poleterresolide.fr/voc/network/c_4ab1c42a> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_4ab1c42a> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
 <https://service.poleterresolide.fr/voc/network/c_5aa8bcd4> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
     skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
@@ -227,22 +244,16 @@
 <https://service.poleterresolide.fr/voc/network/c_66cbf9f7> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
     skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_69aa82a0> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_69aa82a0> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
 <https://service.poleterresolide.fr/voc/network/c_771db321> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
     skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_7ec97469> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_7ec97469> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
-<https://service.poleterresolide.fr/voc/network/c_90eb08a9> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
+<https://service.poleterresolide.fr/voc/network/c_90eb08a9> skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
 <https://service.poleterresolide.fr/voc/network/c_b7eba9c8> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
-
-<https://service.poleterresolide.fr/voc/network/c_fcd860e3> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> ;
     skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> .
 
 <https://service.poleterresolide.fr/voc/platform/P010000> skos:broader <https://w3id.org/earthsemantics/FORMATER_VOCAB/platforms> ;
@@ -582,6 +593,12 @@
     skos:prefLabel "Platforms"@en,
         "Plateformes"@fr .
 
+<https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> a skos:Concept ;
+    rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/network/data?format=application%2Frdf%2Bxml> ;
+    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> ;
+    skos:prefLabel "Networks"@en,
+        "Réseaux"@fr .
+
 <https://w3id.org/earthsemantics/FORMATER_VOCAB/products> a skos:Concept ;
     rdfs:seeAlso <https://service.poleterresolide.fr/ttl/formaterre_product_20241011.rdf> ;
     skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> ;
@@ -594,20 +611,14 @@
     skos:prefLabel "Disciplines and Themes"@en,
         "Disciplines et thèmes"@fr .
 
-<https://w3id.org/earthsemantics/FORMATER_VOCAB/networks> a skos:Concept ;
-    rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/network/data?format=text%2Fturtle> ;
-    skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> ;
-    skos:prefLabel "Networks"@en,
-        "Réseaux"@fr .
-
 <https://w3id.org/earthsemantics/FORMATER_VOCAB/instruments> a skos:Concept ;
-    rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/instrument/data?format=text%2Fturtle> ;
+    rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/instrument/data?format=application%2Frdf%2Bxml> ;
     skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> ;
     skos:prefLabel "Instruments"@en,
         "Instruments"@fr .
 
 <https://w3id.org/earthsemantics/FORMATER_VOCAB/featureofinterest> a skos:Concept ;
-    rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/foi/data?format=text%2Fturtle> ;
+    rdfs:seeAlso <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/foi/data?format=application%2Frdf%2Bxml> ;
     skos:inScheme <https://w3id.org/earthsemantics/FORMATER_VOCAB/thesaurus> ;
     skos:prefLabel "Feature of Interest"@en,
         "Catactéristique d'intérêt"@fr .
@@ -623,9 +634,9 @@
     rdfs:label "FormaTerre Thesaurus"@en,
         "Thésaurus FormaTerre"@fr ;
     owl:imports <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/discipline/data?format=text%2Fturtle>,
-        <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/foi/data?format=text%2Fturtle>,
-        <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/instrument/data?format=text%2Fturtle>,
-        <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/network/data?format=text%2Fturtle>,
+        <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/foi/data?format=application%2Frdf%2Bxml>,
+        <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/instrument/data?format=application%2Frdf%2Bxml>,
+        <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/network/data?format=application%2Frdf%2Bxml>,
         <https://catalogue-terresolide.ipgp.fr/voc/rest/v1/variable/data?format=text%2Fturtle>,
         <https://service.poleterresolide.fr/ttl/formater-platform-gn.rdf>,
         <https://service.poleterresolide.fr/ttl/formaterre_product_20241011.rdf> ;
