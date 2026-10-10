@@ -2969,6 +2969,8 @@
 
 <https://vocab.aeris-data.fr/project/028d8ee9-7e89-f1a6-f02f-a13d8263da7f> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
+<https://vocab.aeris-data.fr/project/02ec181d-26cd-47af-90ff-f070533ee6c0> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
+
 <https://vocab.aeris-data.fr/project/03f70fef-0711-5888-b233-ae4d414bf205> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
 <https://vocab.aeris-data.fr/project/05b2b450-ed2f-4e55-9cbe-815ae2dce960> skos:broader <https://w3id.org/earthsemantics/AERIS_THES/projects> ;
@@ -2981,6 +2983,8 @@
 <https://vocab.aeris-data.fr/project/0af02ddf-d985-19b7-28ae-9d228aaeb064> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
 <https://vocab.aeris-data.fr/project/0b143978-c7e5-4598-9bfd-055a886e026c> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
+
+<https://vocab.aeris-data.fr/project/0c79540c-cfab-439f-ac6c-90c7fd77ff7e> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
 <https://vocab.aeris-data.fr/project/0d5f95a5-c007-4293-a8fc-fb8a24ce4269> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
@@ -3044,6 +3048,8 @@
 
 <https://vocab.aeris-data.fr/project/3915f146-edda-711d-cc65-411a326fa427> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
+<https://vocab.aeris-data.fr/project/39612652-5055-4117-aa1d-ca20dad12d01> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
+
 <https://vocab.aeris-data.fr/project/3b06f699-d4e9-4613-9c4f-7d7cbdd1dd84> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
 <https://vocab.aeris-data.fr/project/3deccd99-07cf-448d-8afc-3315d66f41ba> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
@@ -3073,6 +3079,10 @@
 
 <https://vocab.aeris-data.fr/project/46cead3e-d4fd-495b-aa10-b997946fdd4c> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
+<https://vocab.aeris-data.fr/project/4777e71b-17a4-4048-b897-606f3ca95178> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
+
+<https://vocab.aeris-data.fr/project/48209ef3-fe45-4820-9fcc-e1db676ba318> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
+
 <https://vocab.aeris-data.fr/project/496d95d5-b315-484e-a75c-b67cfb5e68fe> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
 <https://vocab.aeris-data.fr/project/49e47663-cc29-4ca7-968e-278558d45ee4> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
@@ -3101,6 +3111,8 @@
 <https://vocab.aeris-data.fr/project/5c24890e-2174-08fb-2751-47605c5af5f6> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
 <https://vocab.aeris-data.fr/project/5ddbdc80-996a-3af2-e565-63d1e928a02f> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
+
+<https://vocab.aeris-data.fr/project/6128f039-9733-4a0e-bd2a-4f7aeb593643> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
 <https://vocab.aeris-data.fr/project/6149096b-bee5-4289-a866-a4e464f83530> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
@@ -3140,6 +3152,10 @@
 
 <https://vocab.aeris-data.fr/project/75487ad4-b71d-4ed8-9a5b-f8514fed95a7> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
+<https://vocab.aeris-data.fr/project/7585f167-7616-4583-9add-a73d8e89813b> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
+
+<https://vocab.aeris-data.fr/project/75ddb1ea-09ed-47eb-88a6-1bd9f695c3ec> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
+
 <https://vocab.aeris-data.fr/project/76ecf68d-f582-41b7-816a-e0ea2abcc9d1> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
 <https://vocab.aeris-data.fr/project/78ee714c-8db8-f628-d64c-7c69297e8a7d> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
@@ -3155,6 +3171,8 @@
 <https://vocab.aeris-data.fr/project/80400a8b-db8e-f49a-8125-d3d1839709f3> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
 <https://vocab.aeris-data.fr/project/804e1d62-bdfc-04c3-a1ae-77014fac33b1> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
+
+<https://vocab.aeris-data.fr/project/8151c53b-7766-4a50-9b77-557a99ae8986> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
 <https://vocab.aeris-data.fr/project/84d2a630-cdc2-4623-9a8f-f855dbe14fa2> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
@@ -3185,6 +3203,8 @@
 <https://vocab.aeris-data.fr/project/91b21af9-74c7-490e-5121-b4f0e64acae1> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
 <https://vocab.aeris-data.fr/project/91c70aee-85c7-4d59-a7d4-3bb2cf95672f> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
+
+<https://vocab.aeris-data.fr/project/9398165b-9cb1-44f3-8dbb-eb9b5b7c8031> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
 <https://vocab.aeris-data.fr/project/93e3e22d-b3a8-4d3c-b2c3-05a2e2e6423f> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
@@ -3220,6 +3240,8 @@
 
 <https://vocab.aeris-data.fr/project/a955b362-6c56-4e69-843a-4d565c3ba2cb> skos:broader <https://w3id.org/earthsemantics/AERIS_THES/projects> ;
     skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
+
+<https://vocab.aeris-data.fr/project/ab4f2d03-455d-4c7c-9d9b-fdc9677894a6> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
 <https://vocab.aeris-data.fr/project/ad3db0f0-fb46-9f57-2b81-0144f02d8754> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
@@ -3297,6 +3319,8 @@
 
 <https://vocab.aeris-data.fr/project/e7d9ece2-6beb-4bc8-833c-4398a3797ed9> skos:broader <https://w3id.org/earthsemantics/AERIS_THES/projects> ;
     skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
+
+<https://vocab.aeris-data.fr/project/e7ff653c-82aa-42c9-86dd-12cef5df39c1> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
 <https://vocab.aeris-data.fr/project/e842cb5b-0cc9-4ea4-94a9-cc0ed1072374> skos:inScheme <https://w3id.org/earthsemantics/AERIS_THES/thesaurus> .
 
