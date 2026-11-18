@@ -1856,6 +1856,8 @@
 
 <https://w3id.org/ozcar-theia/c_65c14650> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
+<https://w3id.org/ozcar-theia/c_65e93736> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
 <https://w3id.org/ozcar-theia/c_65ebf1e2> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
 <https://w3id.org/ozcar-theia/c_65f38e24> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
@@ -2554,6 +2556,8 @@
 
 <https://w3id.org/ozcar-theia/c_86930c16> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
+<https://w3id.org/ozcar-theia/c_86968dc4> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
 <https://w3id.org/ozcar-theia/c_86f88470> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
 <https://w3id.org/ozcar-theia/c_87a0a51e> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
@@ -2807,6 +2811,8 @@
 <https://w3id.org/ozcar-theia/c_939a48cb> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
 <https://w3id.org/ozcar-theia/c_93a511cb> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<https://w3id.org/ozcar-theia/c_93bf5f93> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
 <https://w3id.org/ozcar-theia/c_94393600> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
@@ -3167,6 +3173,8 @@
 <https://w3id.org/ozcar-theia/c_a8eb96ff> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
 <https://w3id.org/ozcar-theia/c_a93a33ed> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<https://w3id.org/ozcar-theia/c_a957fd67> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
 <https://w3id.org/ozcar-theia/c_a96b0d8b> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
@@ -3666,6 +3674,8 @@
 
 <https://w3id.org/ozcar-theia/c_c2a31dbe> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
+<https://w3id.org/ozcar-theia/c_c2bf95f2> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
 <https://w3id.org/ozcar-theia/c_c2c513c5> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
 <https://w3id.org/ozcar-theia/c_c2cbd51d> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
@@ -3709,6 +3719,8 @@
 <https://w3id.org/ozcar-theia/c_c57c3ab6> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
 <https://w3id.org/ozcar-theia/c_c5a13dde> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<https://w3id.org/ozcar-theia/c_c5a69e30> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
 <https://w3id.org/ozcar-theia/c_c5bef754> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
@@ -4134,6 +4146,8 @@
 
 <https://w3id.org/ozcar-theia/c_dbcad667> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
+<https://w3id.org/ozcar-theia/c_dbd6ed6a> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
 <https://w3id.org/ozcar-theia/c_dbe0f6c8> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
 <https://w3id.org/ozcar-theia/c_dbf43c98> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
@@ -4163,6 +4177,8 @@
 <https://w3id.org/ozcar-theia/c_dd365200> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
 <https://w3id.org/ozcar-theia/c_dda328bc> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
+
+<https://w3id.org/ozcar-theia/c_de2318f4> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
 <https://w3id.org/ozcar-theia/c_de44a80f> skos:inScheme <https://w3id.org/earthsemantics/THEIA_THES/thesaurus> .
 
